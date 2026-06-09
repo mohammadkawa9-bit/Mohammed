@@ -1,0 +1,6 @@
+{
+  "name": "Rêberi Îslamî",
+  "description": "Kurdish Islamic Q&A Assistant featuring AI dietary scanner, theological concepts, and custom ramadan schedule generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
